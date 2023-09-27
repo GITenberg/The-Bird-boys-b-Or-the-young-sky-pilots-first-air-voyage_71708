@@ -1,0 +1,30 @@
+_repo: The-Bird-boys-b-Or-the-young-sky-pilots-first-air-voyage_71708
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Lawrence, C. H. Frontis
+    gutenberg_agent_id: '56343'
+    url: http://www.gutenberg.org/2009/agents/56343
+creator:
+  author:
+    agent_name: Langworthy, John Luther
+    gutenberg_agent_id: '3583'
+    url: http://www.gutenberg.org/2009/agents/3583
+description: ''
+gutenberg_issued: '2023-09-23'
+identifiers:
+  gutenberg: '71708'
+language: en
+pgterms:marc905: 20230629002638langworthy
+pgterms:marc906: '1912'
+pgterms:marc907: US
+production_note: Tim Lindell, David E. Brown, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net
+publication_note: '  $aChicago :$bM. A. Donohue & Co., $c1912.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The Bird boys : $b Or, the young sky pilots'' first air voyage'
+url: http://www.gutenberg.org/ebooks/71708
